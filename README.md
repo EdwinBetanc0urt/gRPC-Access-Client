@@ -4,6 +4,8 @@
 [![Downloads](https://img.shields.io/npm/dm/@adempiere/grpc-access-client.svg)](https://www.npmjs.com/package/@adempiere/grpc-access-client)
 [![Dependencies](https://img.shields.io/librariesio/github/erpcya/grpc-access-client.svg)](https://www.npmjs.com/package/@adempiere/grpc-access-client)
 
+#### @DEPRECATED Replace with https://github.com/adempiere/gRPC-API
+
 ADempiere Access Client write in Javascript for gRPC service, use it for connect with
 [ADempiere-gRPC-Server](https://github.com/erpcya/adempiere-gRPC-Server).
 
